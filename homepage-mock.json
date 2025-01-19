@@ -1,0 +1,71 @@
+{
+    "assessment": {
+        "id": 2,
+        "attributes": {
+            "locale": "it-IT",
+            "title": "Completa il tuo assessment",
+            "description": "Attraverso un'immagine innovativa di tutto ciò che sei, scopri e attiva tutte le competenze soft che esprimi in ogni ambito della tua vita: sul lavoro e fuori. ",
+            "units": "3 parti",
+            "time": "20 minuti",
+            "button_text": "Riprendi",
+            "status": "started"
+        }
+    },
+    "unitId": 3,
+    "status": "started",
+    "assessmentStatus": {
+        "current": 0,
+        "total": 3
+    },
+    "userGuide": [
+        {
+            "attributes": {
+                "title": "La tua esperienza in pratica",
+                "items": [
+                    {
+                        "id": 1,
+                        "title": "Completa le 3 parti dell’assessment",
+                        "description": "Semplice e interattivo, usa l'innovativa tecnica del self-coaching. Risultati sorprendenti, in soli 20 minuti."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Ottieni un report personale e immediato",
+                        "description": "Il report è una fotografia delle competenze soft che usi, sia a casa che sul lavoro. Scaricalo in pdf e utilizzalo per arricchire il tuo CV."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Ripeti l’esperienza regolarmente",
+                        "description": "Scopri come evolvi nel tempo. Ripeti l’assessment regolarmente o nei periodi di grande cambiamento, personale e professionale, per trovare le risorse di cui hai bisogno."
+                    }
+                ]
+            }
+        }
+    ],
+    "contentSummary": [
+        {
+            "attributes": {
+                "title": "Le 3 tappe da esplorare",
+                "items": [
+                    {
+                        "id": 1,
+                        "title": "Ruoli",
+                        "description": "Esplora i ruoli che hai nella tua vita: quante “cose” sei?",
+                        "time": "5 minuti"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Tratti",
+                        "description": "Descrivi come esprimi i diversi ruoli della tua vita.",
+                        "time": "5 - 10 minuti"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Comportamenti",
+                        "description": "Rifletti su come ti comporti in contesti diversi.",
+                        "time": "5-10 minuti"
+                    }
+                ]
+            }
+        }
+    ]
+}
